@@ -19,7 +19,7 @@ version: 2
 cli:
   server: https://app.fossa.com
   fetcher: custom
-  project: cassandra-reaper
+  project: git@github.com:jdonenine/cassandra-reaper.git
 analyze:
   modules:
   - name: cassandra-reaper-ui
